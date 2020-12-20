@@ -1,6 +1,7 @@
 # How has US' Response to COVID-19 impacted measures of carbon emissions?
 
 **Motivation**
+
 “To guide business and policy making decisions designed to address global climate change.”     
 With office buildings being closed during the Covid-19 Pandemic (stagnant water), could this make conditions ripe for a Legionnaires' outbreak?  Is there a correlation between water system violations and increased Legionnaires' cases?
 
@@ -13,7 +14,7 @@ How have air quality measures such as N02, C0, Ozone, PM10, PM2.5, and S02 chang
 What change in economic activity generated the impact on carbon emissions?
 
 # Capstone Link
-[Capstone Link](/legionnaires.pdf)
+
 
 
 **Data**
@@ -36,27 +37,27 @@ What change in economic activity generated the impact on carbon emissions?
 
 **Energy Trends**
 
-***Coal Consumption***
+***- Coal Consumption***
 
-***Natural Gas Consumption***
+***- Natural Gas Consumption***
 
-***Petroleum Liquids Consumption***
+***- Petroleum Liquids Consumption***
 
-***Petroleum Coke Consumption***
+***- Petroleum Coke Consumption***
 
 **Manufacturing Trends**
 
-***Shipments***
+***- Shipments***
 
-***New Orders***
+***- New Orders***
 
-**Transportation Trends**
+**- Transportation Trends**
 
-***TSA Throughput***
+***- TSA Throughput***
 
-***Airline Traffic/Fuel/Cost***
+***- Airline Traffic/Fuel/Cost***
 
-***POV Vehicle Miles Traveled***
+***- POV Vehicle Miles Traveled***
 
 **Conclusion**
 To be determined
