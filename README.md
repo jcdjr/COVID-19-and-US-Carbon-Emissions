@@ -4,7 +4,7 @@
 
 “To guide business and policy making decisions designed to address global climate change.”     
 
-Like many countries, the US States responded to the COVID-19 pandemic by issuing strict lockdown orders resulting in an unprecedented decrease in economic activity throughout 2020. This has had devastating social and economic effects on businesses, families, and individuals. However, the response provides an opportunity to identify the changes which made the biggest impact on reducing carbon emissions. For the first time, researchers can analyze these changes using real-world data as opposed to computational models (Bourzac). 
+Like many countries the US responded to the COVID-19 pandemic by issuing strict lockdown orders resulting in an unprecedented decrease in economic activity throughout 2020. This has had devastating social and economic effects on businesses, families, and individuals. However, the response provides an opportunity to identify the changes which made the biggest impact on reducing carbon emissions. For the first time, researchers can analyze these changes using real-world data as opposed to computational models (Bourzac). 
 
 **Initial Questions:**  
 
