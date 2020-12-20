@@ -1,4 +1,4 @@
-# How has US' Response to COVID-19 impacted measures of carbon emissions?
+# How has US Response to COVID-19 impacted measures of carbon emissions?
 
 **Motivation**
 
