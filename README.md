@@ -41,11 +41,13 @@ How does 2020 compare to previous years where CO2 emissions declined?
 “US Airline Fuel Cost and Consumption.” Bureau of Transportation Statistics. https://www.transtats.bts.gov/fuel.asp 
 
 ***Industry Trends***
+
 Manufacturers’ Shipments, Inventories, & Orders” US Census Bureau. https://www.eia.gov/electricity/data.php#consumption
 
 “Industrial Production: Total Index.” Federal Reserve Bank of St. Louis. https://fred.stlouisfed.org/series/INDPRO 
 
 ***Carbon Emissions*** 
+
 “Carbon Dioxide Emissions from Energy Consumption: Residential Sector.” US Energy Information Administration. https://www.eia.gov/totalenergy/data 
 
 “Carbon Dioxide Emissions from Energy Consumption: Commercial Sector.” US Energy Information Administration. https://www.eia.gov/totalenergy/data 
@@ -59,6 +61,7 @@ Manufacturers’ Shipments, Inventories, & Orders” US Census Bureau. https://w
 “Global Co2 Emissions.” Our World in Data. https://ourworldindata.org/co2-emissions 
 
 ***COVID-19***
+
 “US State and Local Government Response to the Covid-19 Pandemic.” Wikipedia. https://en.wikipedia.org/wiki/U.S._state_and_local_government_responses_to_the_COVID-19_pandemic 
 
 # Analysis
