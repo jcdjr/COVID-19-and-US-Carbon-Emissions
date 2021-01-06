@@ -1,4 +1,4 @@
-# "Measuring the Impact of COVID-19 on US Carbon Emissions"
+# Measuring the Impact of COVID-19 on US Carbon Emissions
 
 **Motivation**
 
@@ -6,7 +6,7 @@
 
 Like many countries the US responded to the COVID-19 pandemic by issuing strict lockdown orders resulting in an unprecedented decrease in economic activity throughout 2020. This has had devastating social and economic effects on businesses, families, and individuals. However, the response provides an opportunity to identify the changes that made the biggest impact on reducing carbon emissions. For the first time, researchers can analyze these changes using real-world data as opposed to computational models. 
 
-**Research Questions: **  
+**Research Questions:**  
 
 How did the response to COVID-19 impact CO2 emissions in the US?
 
@@ -16,7 +16,7 @@ How does 2020 compare to previous years where CO2 emissions declined?
 
 **Data**
 
-Electrical Power & Energy Trends
+***Electrical Power & Energy Trends***
 
 “Consumption of fuels used to generate electricity.” US Energy Information and Administration. https://www.eia.gov/electricity/data.php#consumption
 
