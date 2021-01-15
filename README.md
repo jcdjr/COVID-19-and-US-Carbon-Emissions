@@ -1,4 +1,4 @@
-# Measuring the Impact of COVID-19 on US Carbon Emissions
+# Impact of COVID-19 on US Carbon Emissions
 
 **Motivation**
 
