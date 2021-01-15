@@ -28,7 +28,7 @@ How does 2020 compare to previous years where CO2 emissions declined?
 
 **Variables:** US Response to COVID-19 (Indepdent Variable), US CO2 Emissions (Depedent Variable) 
 
-**Conclusion**
+**Conclusion:**
 
 In a comparison of economic sectors, the transportation sector saw the largest drop in CO2 emissions during the peak of the COVID-19 lockdowns in April 2020 while the residential sector saw a slight increase. Total CO2 emissions were down 19% in April. Although emissions data have not been finalized for 2020, climate scientists estimate that total US emissions will fall by 7% from 2019. This places 2020 as the largest declining year for CO2 emissions since World War II.  
 
