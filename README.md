@@ -1,10 +1,16 @@
 # Impact of COVID-19 on US Carbon Emissions
 
+**Background**
+
+The 2019 Coronavirus Pandemic prompted countries worldwide to adopt strict containment measures in the form of stay-at-home orders and lockdowns. Due to the unprecedented restrictions on travel and business operations, climate scientists estimate that the global response to COVID-19 will result in 7% decline in carbon emissions. 
+
 **Motivation**
 
-“To understand the relationship between changes in economic activity and carbon emissions."     
+My motivation for investigating this topic is to understand how the response to COVID-19 in the US affected carbon emissions in the industrial, electric power, transportation, and residential sectors. 
 
-Like many countries the US responded to the COVID-19 pandemic by issuing strict lockdown orders resulting in an unprecedented decrease in economic activity throughout 2020. This has had devastating social and economic effects on businesses, families, and individuals. However, the response provides an opportunity to identify the changes that made the biggest impact on reducing carbon emissions. For the first time, researchers can analyze these changes using real-world data as opposed to computational models. 
+**Project Summary**
+
+My capstone project investigates the impact of the response to the pandemic on carbon emissions in the US. Using 19 datasets from sources such as the US Energy Information Administration and the Environmental Protection Agency, I compared changes in C02 emissions during the peak of response in April 2020 with C02 emissions in April 2019. In a comparison of US economic sectors, the transportation sector saw the largest decline in C02 emissions while the residential sector saw a slight increase. 
 
 **Research Questions:**  
 
