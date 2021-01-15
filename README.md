@@ -22,14 +22,15 @@ How does 2020 compare to previous years where CO2 emissions declined?
 
 # Analytical Approach 
 
-Type of Analysis: Time Series
+*Type of Analysis:* Time Series
 
-Unit of Analysis: Economic Sector - Year
+*Unit of Analysis:* Economic Sector - Year
 
-Variables:
+*Variables:*
 
-  Indepedent Variable: US Response to COVID-19
-  Dependent Variable: US CO2 Emissions
+(Indepdent Variable) US Response to COVID-19
+(Depedent Variable) US CO2 Emissions
+
 
 **Conclusion**
 
