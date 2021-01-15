@@ -20,6 +20,14 @@ What sector of the US economy saw the largest decrease in CO2 emissions during t
 
 How does 2020 compare to previous years where CO2 emissions declined? 
 
+
+**Conclusion**
+
+In a comparison of economic sectors, the transportation sector saw the largest drop in CO2 emissions during the peak of the COVID-19 lockdowns in April 2020. Total CO2 emissions were down 19% in April. Although emissions data have not been finalized for 2020, climate scientists estimate that total US emissions will fall by 7% from 2020. This places 2020 as the largest declining year for CO2 emissions since World War II.  
+
+# Capstone Link
+https://github.com/jcdjr/COVID-19-and-US-Carbon-Emissions
+
 **Data**
 
 ***Electrical Power & Energy Trends***
@@ -93,12 +101,4 @@ Manufacturers’ Shipments, Inventories, & Orders” US Census Bureau. https://w
 ***- Airline Fuel Use***
 
 ***- POV Vehicle Miles Traveled***
-
-**Conclusion**
-
-In a comparison of economic sectors, the transportation sector saw the largest drop in CO2 emissions during the peak of the COVID-19 lockdowns in April 2020. Total CO2 emissions were down 19% in April. Although emissions data have not been finalized for 2020, climate scientists estimate that total US emissions will fall by 7% from 2020. This places 2020 as the largest declining year for CO2 emissions since World War II.  
-
-
-# Capstone Link
-https://github.com/jcdjr/COVID-19-and-US-Carbon-Emissions
 
