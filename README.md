@@ -20,6 +20,16 @@ What sector of the US economy saw the largest decrease in CO2 emissions during t
 
 How does 2020 compare to previous years where CO2 emissions declined? 
 
+# Analytical Approach 
+
+Type of Analysis: Time Series
+
+Unit of Analysis: Economic Sector - Year
+
+Variables:
+
+  Indepedent Variable: US Response to COVID-19
+  Dependent Variable: US CO2 Emissions
 
 **Conclusion**
 
@@ -78,27 +88,5 @@ Manufacturers’ Shipments, Inventories, & Orders” US Census Bureau. https://w
 
 “US State and Local Government Response to the Covid-19 Pandemic.” Wikipedia. https://en.wikipedia.org/wiki/U.S._state_and_local_government_responses_to_the_COVID-19_pandemic 
 
-# Analysis
 
-**Industrial Trends**
-
-***- Industrial Production Index***
-
-***- Industrial Sector CO2 Emissions***
-
-**Electricity Generation Trends**
-
-***- Fossil Fuel Use in the Electric Power Sector***
-
-***- CO2 Emissions in the Electric Power Sector***
-
-***- Residential Electricity Consumption***
-
-**Transportation Trends**
-
-***- TSA Throughput***
-
-***- Airline Fuel Use***
-
-***- POV Vehicle Miles Traveled***
 
