@@ -26,11 +26,7 @@ How does 2020 compare to previous years where CO2 emissions declined?
 
 **Unit of Analysis:** Economic Sector - Year
 
-**Variables:**
-
-(Indepdent Variable) US Response to COVID-19
-(Depedent Variable) US CO2 Emissions
-
+**Variables:** US Response to COVID-19 (Indepdent Variable), US CO2 Emissions(Depedent Variable) 
 
 **Conclusion**
 
