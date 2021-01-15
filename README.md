@@ -36,7 +36,7 @@ In a comparison of economic sectors, the transportation sector saw the largest d
 
 Python, Microsoft Excel, and Microsoft Power BI
 
-# Capstone Link
+# Capstone Link and Data Sources
 https://github.com/jcdjr/COVID-19-and-US-Carbon-Emissions
 
 **Data**
