@@ -2,7 +2,7 @@
 
 **Presentation Link**
 
-[Power BI]https://app.powerbi.com/groups/me/reports/80b10f8a-06db-4b06-99f9-8b54798785b6/ReportSection3a0e52c3111ca5eb6d80
+[Power BI](https://app.powerbi.com/groups/me/reports/80b10f8a-06db-4b06-99f9-8b54798785b6/ReportSection3a0e52c3111ca5eb6d80)
 
 **Background**
 
