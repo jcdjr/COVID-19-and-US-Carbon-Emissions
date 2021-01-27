@@ -1,5 +1,9 @@
 # Impact of COVID-19 on US Carbon Emissions
 
+**Presentation Link**
+
+https://app.powerbi.com/groups/me/reports/80b10f8a-06db-4b06-99f9-8b54798785b6/ReportSection3a0e52c3111ca5eb6d80
+
 **Background**
 
 The 2019 Coronavirus Pandemic prompted countries worldwide to adopt strict containment measures in the form of stay-at-home orders and lockdowns. Due to the unprecedented restrictions on travel and business operations, climate scientists estimate that the global response to COVID-19 will result in 7% decline in carbon emissions. 
